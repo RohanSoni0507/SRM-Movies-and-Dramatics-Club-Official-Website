@@ -87,17 +87,17 @@ const projectsData = [
     },
     {
         name: "Sometimes the scars we can't see are the ones that never heal...Presenting you our Hindi short film 'UNHEALED'",
-        image: "images/project6.jpeg",
+        image: "images/project6.png",
         website: "https://www.instagram.com/p/CrJCkS_A0EC/?hl=en",
     },
     {
         name: "Here presenting you our telugu short film from Movies and Dramatics club 'AA AMMAYI' - story of 'One loveOne lifeOne destiny' ",
-        image: "images/project7.jpeg",
+        image: "images/project7.png",
         website: "https://www.instagram.com/p/CmozDbmKoBZ/?hl=en",
     },
     {
         name: "Presenting to you, 'Pavithra Parimanam', the journey of an actor to pull off a perfect scene! Watch this Tamil Short Film which took the efforts of an actor and portrayed it on screen!",
-        image: "images/project8.jpeg",
+        image: "images/project8.png",
         website: "https://www.instagram.com/p/CloD_aSAgjb/?hl=en",
     },
 
