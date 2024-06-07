@@ -96,7 +96,7 @@ const projectsData = [
         website: "https://www.instagram.com/p/CmozDbmKoBZ/?hl=en",
     },
     {
-        name: "Presenting to you, 'Pavithra Parimanam', the journey of an actor to pull off a perfect scene! Watch this Tamil Short Film which took the efforts of an actor and portrayed it on screen!",
+        name: "Presenting to you, 'Pavithra Parimanam', the journey of an actor to pull off a perfect scene! Watch this Tamil Short Film",
         image: "images/project8.png",
         website: "https://www.instagram.com/p/CloD_aSAgjb/?hl=en",
     },
