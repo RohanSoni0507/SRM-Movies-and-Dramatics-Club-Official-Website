@@ -1,3 +1,4 @@
+/* Base Styles */
 body {
     background-image: url('images/abc.jpg');
     background-size: cover;
@@ -41,7 +42,6 @@ footer {
     cursor: pointer;
     padding: 5px;
 }
-
 
 .bar {
     background-color: #f0f0f0;
@@ -184,7 +184,6 @@ footer a {
     font-size: 18px;
 }
 
-
 .slide-in-menu .social-media-link {
     display: flex;
     align-items: center;
@@ -291,5 +290,88 @@ footer a {
     .semester-card {
         flex: 0 1 100%;
         margin-right: 0;
+    }
+}
+
+/* Mobile Styles */
+@media (max-width: 768px) {
+    .header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .nav-links {
+        flex-direction: column;
+        align-items: flex-start;
+        display: none;
+    }
+
+    .nav-links li {
+        margin: 10px 0;
+    }
+
+    .menu-toggle {
+        display: block;
+    }
+
+    .menu-toggle.active + .nav-links {
+        display: flex;
+    }
+
+    .indexcontainer, .container {
+        font-size: 1.2em;
+        margin-top: 2em;
+    }
+
+    .developer-card {
+        max-width: 100%;
+        margin: 20px 0;
+    }
+
+    .developer-info {
+        padding: 10px;
+    }
+
+    .project-card {
+        margin-left: 0;
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    .semester-card {
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    .slide-in-menu {
+        width: 100%;
+        left: -100%;
+        height: 100%;
+    }
+
+    .slide-in-menu.active {
+        left: 0;
+    }
+
+    .slide-in-menu li {
+        margin: 10px 0;
+    }
+
+    .slide-in-menu .social-media-link i {
+        margin-left: auto;
+    }
+
+    footer a {
+        font-size: 20px;
+    }
+
+    .developers {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .project-card-container, .semester-cards {
+        flex-direction: column;
+        align-items: center;
     }
 }
