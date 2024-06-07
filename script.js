@@ -91,7 +91,7 @@ const projectsData = [
         website: "https://www.instagram.com/p/CrJCkS_A0EC/?hl=en",
     },
     {
-        name: "Here presenting you our telugu short film from Movies and Dramatics club 'AA AMMAYI' - story of 'One loveOne lifeOne destiny' ",
+        name: "Here presenting you our telugu short film from Movies and Dramatics club 'AA AMMAYI' - story of 'One love One life One destiny' ",
         image: "images/project7.png",
         website: "https://www.instagram.com/p/CmozDbmKoBZ/?hl=en",
     },
