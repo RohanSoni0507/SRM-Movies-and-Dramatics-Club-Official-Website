@@ -86,7 +86,7 @@ const projectsData = [
         website: "https://youtu.be/R9LpxPRuvfQ?si=8LsewuwZZuHgoJao",
     },
     {
-        name: "Sometimes the scars we can't see are the ones that never heal...Presenting you our Hindi short film "UNHEALED"",
+        name: "Sometimes the scars we can't see are the ones that never heal...Presenting you our Hindi short film 'UNHEALED'",
         image: "images/project6.jpeg",
         website: "https://www.instagram.com/p/CrJCkS_A0EC/?hl=en",
     },
