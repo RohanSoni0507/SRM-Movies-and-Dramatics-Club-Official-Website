@@ -12,7 +12,7 @@
      <script type='text/javascript' src='//franklycommission.com/92/23/62/9223623cb916a19cbf3acef7a2393ab4.js'></script>
 </head>
 <style>
-    .developerers-card {
+.developerers-card {
     display: flex;
     align-items: center;
     background-color: #f5f5f5;
@@ -54,7 +54,32 @@
     margin-right: 10px;
     font-size: 18px;
 }
-</style>
+  
+    @media (max-width: 768px) {
+      .developers-card {
+        flex-direction: column;
+        max-width: 90%;
+        padding: 15px;
+      }
+  
+      .developers-info {
+        padding: 15px;
+      }
+  
+      .developers-info h2 {
+        font-size: 20px;
+      }
+  
+      .developers-info p {
+        font-size: 14px;
+      }
+  
+      .developers-info a {
+        font-size: 16px;
+      }
+    }
+  </style>
+  
 <body>
     <div class="header">
       <div class="menu-toggle" aria-label="Toggle Menu">

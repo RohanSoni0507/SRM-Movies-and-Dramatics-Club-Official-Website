@@ -15,6 +15,7 @@
       margin: 0;
       padding: 0;
     }
+  
     .container {
       max-width: 800px;
       margin: 0 auto;
@@ -22,25 +23,63 @@
       background-color: white;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     }
+  
     h1, h2, h3 {
       text-align: center;
       color: #333;
     }
-    p{
+  
+    p {
       color: #555;
       line-height: 1.6;
     }
+  
     ul {
       padding-left: 20px;
     }
+  
     li {
       text-align: justify;
       margin: 10px 0;
     }
+  
     .highlight {
       color: #d9534f;
       font-weight: bold;
     }
+  
+    @media (max-width: 768px) {
+      .container {
+        padding: 15px;
+      }
+  
+      h1 {
+        font-size: 24px;
+        margin-top: 1em;
+        margin-bottom: 1.5em;
+      }
+  
+      h2 {
+        font-size: 20px;
+        margin-bottom: 0.8em;
+      }
+  
+      h3 {
+        font-size: 18px;
+        margin-bottom: 0.8em;
+      }
+  
+      p {
+        font-size: 14px;
+        margin-bottom: 1.2em;
+      }
+  
+      li {
+        font-size: 14px;
+      }
+    }
+  </style>
+  
   </style>
 </head>
 <body>
