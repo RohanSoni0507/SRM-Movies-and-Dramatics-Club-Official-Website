@@ -66,6 +66,11 @@ const projectsData = [
         website: "https://youtu.be/qsPMFwp7Ke0?si=nHQ3947-5OvF6-FJ",
     },
     {
+        name: "'WILHELM' | A Short-film by Aravind and Team for SRM Movies And Dramatics |",
+        image: "images/project12.jpeg",
+        website: "https://youtu.be/F35r_wRG_6c?si=SReiZLTe6robSl-N",
+    },
+    {
         name: "'Sabash Kachara' - An Award-winning Street play by SRM Movies And Dramatics at VIT Vellore's RIVIERA",
         image: "images/project2.jpeg",
         website: "https://youtu.be/JzU2homurzg?si=FKutAIimCItopHa8",
