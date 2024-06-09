@@ -121,9 +121,19 @@ const projectsData = [
         website: "https://www.instagram.com/p/C1RNPTiPRZP/?hl=en",
     },
     {
-        name: "life goes on and on ...…..It’s not going to be the same Valentine’s week...from now ‼️” Here’s our next project “Repeat” 🎬",
+        name: "Life goes on and on ...…..It’s not going to be the same Valentine’s week...from now ‼️” Here’s our next project “Repeat” 🎬",
         image: "images/project11.png",
         website: "https://www.instagram.com/p/C3c0j8fvMX1/?hl=en",
+    },
+    {
+        name: "Here's presenting you the next short film Evanescent Part 1 from Movies and Dramatics Club",
+        image: "images/project13.png",
+        website: "https://www.instagram.com/p/CkLUbElAY5W/?hl=en",
+    },
+    {
+        name: "Bringing to you Part 2 of Evanescent from Movies and Dramatics Club",
+        image: "images/project13.png",
+        website: "https://www.instagram.com/p/CkLVPR5gsL9/?hl=en",
     },
 
 ];
