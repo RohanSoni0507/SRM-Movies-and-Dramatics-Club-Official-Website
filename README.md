@@ -35,7 +35,7 @@ You need a modern web browser and a text editor to view and edit the code. Addit
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/srm-movies-and-dramatics-club.git
+    git clone https://github.com/RohanSoni0507/srm-movies-and-dramatics-club.git
     ```
 2. Navigate to the project directory:
     ```bash
